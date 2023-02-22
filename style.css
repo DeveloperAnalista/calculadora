@@ -9,3 +9,39 @@ div{
     left: 35%;
 
 }
+body {
+    margin: 10%;
+    font-family:"courier" ;
+    font-style: normal;
+    font-size: 120%;
+    color: #fff;
+
+}
+td, th {
+    border: 1px solid rgb(78, 217, 8);
+    text-align: center;
+    padding: 3px;
+}html,
+    main{
+        margin-top: 50px;
+        display:flex
+    }
+    nav{ 
+        background-color:rgb(207, 156, 156);
+        flex: 1;
+        background-position: 0ch;
+    }
+    
+    
+    nav ul li {
+        margin: 0%;
+        padding:0;
+    background-color: #333;
+    border-top: 2px solid rgb(210,210,210);
+    border-bottom: none;
+    }
+   
+    nav a:hover{
+          text-align: justify;
+    }
+ 
