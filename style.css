@@ -1,0 +1,11 @@
+body{
+    background-color: dimgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+
+}
